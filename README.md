@@ -81,12 +81,12 @@ python3 manage.py runserver
 ```
 Open browser window and in new tab go to link http://127.0.0.1:8000
     
-## [Contributors](https://github.com/CapstoneProject18/Stock-Market-Analysis/graphs/contributors)
-* **Ayush Dosajh** - *Sentiment Module*
-* **Ganesh Singh** - *Prediction Module*
-* **Gulshan Singh** - *Search Engine Module*
-* **Mayank Singh** - *Visualization Module*
-* **Sangamesh Kotalwar** - *Comparison Module*
+## [Contributors](https://github.com/enthusiastica/Stock-Market-Analysis/graphs/contributors)
+* **Ayush Dosajh**
+* **Ganesh Singh**
+* **Gulshan Singh**
+* **William Wang**
+* **Sangamesh Kotalwar**
 
 ## Acknowledgement
 We are highly indebted to Mr. Manish Hurkat and Mr. Bhavesh Sangwan for their guidance and constant supervision as well as for providing necessary information regarding the project & also for their support in completing the project.
