@@ -85,7 +85,7 @@ Open browser window and in new tab go to link http://127.0.0.1:8000
 * **Ayush Dosajh**
 * **Ganesh Singh**
 * **Gulshan Singh**
-* **William Wang**
+* **William Campbell**
 * **Sangamesh Kotalwar**
 
 ## Acknowledgement
